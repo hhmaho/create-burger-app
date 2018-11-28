@@ -81,7 +81,7 @@
 .Meat {
   width: 80%;
   height: 8%;
-  background: linear-gradient(#7f3608, #702e05);
+  background: #7f3608;
   margin: 2% auto;
   border-radius: 15px;
 }
@@ -90,7 +90,7 @@
   width: 85%;
   height: 4.5%;
   margin: 2% auto;
-  background: linear-gradient(#fae900, #df9425);
+  background: linear-gradient(#fae900, #fccf54);
   border-radius: 20px;
 }
 
@@ -98,13 +98,13 @@
   width: 85%;
   height: 7%;
   margin: 2% auto;
-  background: linear-gradient(#228c1d, #91ce50);
-  border-radius: 20px;
+  background: #228c1d;
+  border-radius: 12px;
 }
 
 .Bacon {
   width: 80%;
   height: 3%;
-  background: linear-gradient(#bf3813, #c45e38);
+  background: #c45e38;
   margin: 2% auto;
 }
